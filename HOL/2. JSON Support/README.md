@@ -19,4 +19,4 @@ You'll get to experience this improved JSON formatting in SSMS 22 throughout the
 
 ___
 
-▶ [Lab: Native JSON Data Type](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL/2.%20JSON%20Support/1.%20Native%20JSON%20Data%20Type.md)
+▶ [Lab: Native JSON Data Type](https://github.com/lennilobel/sql2025-workshop-hol-orlando2026/blob/main/HOL/2.%20JSON%20Support/1.%20Native%20JSON%20Data%20Type.md)
