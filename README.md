@@ -1,4 +1,5 @@
-﻿# LIVE! 360 Orlando 2026
+﻿### LIVE! 360 Orlando 2026
+# Building Modern Applications with SQL Server 2025 - AI and New Developer Features
 
 Welcome!
 
